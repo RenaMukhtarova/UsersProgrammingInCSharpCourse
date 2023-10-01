@@ -1,0 +1,15 @@
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\bin\Debug\net7.0\Lesson3.exe
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\bin\Debug\net7.0\Lesson3.deps.json
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\bin\Debug\net7.0\Lesson3.runtimeconfig.json
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\bin\Debug\net7.0\Lesson3.dll
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\bin\Debug\net7.0\Lesson3.pdb
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\obj\Debug\net7.0\Lesson3.csproj.AssemblyReference.cache
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\obj\Debug\net7.0\Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\obj\Debug\net7.0\Lesson3.AssemblyInfoInputs.cache
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\obj\Debug\net7.0\Lesson3.AssemblyInfo.cs
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\obj\Debug\net7.0\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\obj\Debug\net7.0\Lesson3.dll
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\obj\Debug\net7.0\refint\Lesson3.dll
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\obj\Debug\net7.0\Lesson3.pdb
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\obj\Debug\net7.0\Lesson3.genruntimeconfig.cache
+C:\Users\Murad\OneDrive\Desktop\task c#\nurlarvalizade\CSharpCourse\CSharpCourse\obj\Debug\net7.0\ref\Lesson3.dll
